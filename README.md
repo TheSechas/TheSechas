@@ -1,5 +1,7 @@
 ## Hola, mi nombre es Sergio González García👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesechas&label=Profile%20views&color=17deee&style=flat" alt="thesechas" /> </p>
+
 ### Administrador de Sistemas y futuro desarrollador web/software
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSgtyhPKyB8CLCUDKBt3pSw?style=social)](https://youtube.com/TheSechas?sub_confirmation=1)
