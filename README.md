@@ -1,5 +1,7 @@
 ## Hola, mi nombre es Sergio González García👋
 
+- [LinkedIn](https://www.linkedin.com/in/sergio-gonz%C3%A1lez-garc%C3%ADa-56796523a/), [Gmail](mailto:sergiogg20012003@gmail.com),
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesechas&label=Profile%20views&color=17deee&style=flat" alt="thesechas" /> </p>
 
 ### Administrador de Sistemas y futuro desarrollador web/software
