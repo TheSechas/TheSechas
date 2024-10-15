@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Sergio González García👋
 
-- [LinkedIn](https://www.linkedin.com/in/sergio-gonz%C3%A1lez-garc%C3%ADa-56796523a/), [Gmail](mailto:sergiogg20012003@gmail.com),
+- [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />](https://www.linkedin.com/in/sergio-gonz%C3%A1lez-garc%C3%ADa-56796523a/), [Gmail](mailto:sergiogg20012003@gmail.com),
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesechas&label=Profile%20views&color=17deee&style=flat" alt="thesechas" /> </p>
 
