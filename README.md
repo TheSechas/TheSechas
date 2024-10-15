@@ -10,7 +10,7 @@
 
 ## Sobre mi
 
-- 🌱 I’m currently learning Unity, JavaScript, HTML, CSS, PowerShell, Bash and MySQL
+- 🌱 I’m currently learning Unity, JavaScript, HTML, CSS, PowerShell, Bash, Python and MySQL
 
 ### ⚙️ &nbsp;GitHub Analytics
 
