@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesechas&label=Profile%20views&color=17deee&style=flat" alt="thesechas" /> </p>
 
-### Administrador de Sistemas y futuro desarrollador web/software
+### Administrador de Sistemas y con conocimientos en desarrollador web/software
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSgtyhPKyB8CLCUDKBt3pSw?style=social)](https://youtube.com/TheSechas?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/thesechas?style=social)](https://twitch.com/thesechas)
@@ -14,7 +14,7 @@
 
 ## Sobre mi
 
-- 🌱 I’m currently learning Unity, JavaScript, HTML, CSS, PowerShell, Bash, Python and MySQL
+- 🌱 I’m currently learning IA, English.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
