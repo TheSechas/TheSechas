@@ -14,7 +14,7 @@
 
 ## Sobre mi
 
-- 🌱 I’m currently learning IA, English.
+- 🌱 I’m currently learning DevOps, English.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
